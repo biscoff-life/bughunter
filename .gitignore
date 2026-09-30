@@ -1,0 +1,15 @@
+# PHP Session files
+database/sess_*
+sess_*
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+
+# Log files
+*.log
