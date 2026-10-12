@@ -137,3 +137,31 @@ Try squashing these sample challenges:
 ---
 
 © BugHunter — Interactive Debugging Platform.
+
+## BugHunter AI – New Vision
+
+**BugHunter AI** expands the original platform into an intelligent coding, debugging, and developer‑skill‑assessment system.
+
+### Core Modules
+- **Student portal** – registration, dashboard, progress tracking.
+- **Coding engine** – multi‑language challenges, editor, test cases.
+- **AI Tutor** – submit code + problem description → AI explains errors, suggests fixes, optional hints.
+- **Learning system** – levels, missions, badges, skill paths.
+- **Competition system** – daily/weekly contests, leaderboards, team challenges.
+- **Interview prep** – MCQs, coding assessments, AI‑generated follow‑up questions.
+
+### Feature Highlights
+- Multi‑language arena (C, C++, Java, Python, JavaScript, SQL).
+- AI‑driven debugging lab with code‑review suggestions.
+- Gamified progression: XP, six levels, missions, badges.
+- Smart analytics: accuracy per language/topic, recommendation engine.
+- Competitive coding: leaderboards, streaks, private college contests.
+- Admin console for managing users, languages, challenges, contests.
+
+### Tech Stack
+- **Frontend**: HTML, CSS, JavaScript (responsive UI, custom editor, charts).
+- **Backend / AI**: Python + Flask/FastAPI (REST API, scoring, OpenAI integration).
+- **Database**: MySQL primary, SQLite fallback for quick demos.
+- **Version control**: Git + GitHub.
+
+For a detailed spec, see the `SPECIFICATION.md` file in the repo.
